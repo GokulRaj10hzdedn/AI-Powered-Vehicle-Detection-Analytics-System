@@ -1,4 +1,4 @@
-# AI-Based Vehicle Recognition System
+# AI Powered-Vehicle Detection Analytics System
 
 AI Vehicle Recognition System is an end-to-end AI-powered web application that detects vehicles, people, and number plates from images, videos, and live webcam streams. The system performs vehicle model classification, person type classification, OCR-based number plate recognition, detection history management, analytics generation, and PDF report export through a FastAPI backend and React frontend.
 
