@@ -184,7 +184,7 @@ backend/trained_models/
 ## Final Folder Structure
 
 ```text
-ai-vehicle-recognition-system/
+AI-Powered-Vehicle-Detection-Analytics-System/
 │
 ├── backend/
 │   ├── app/
